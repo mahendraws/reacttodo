@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mahendraws/reacttodo.git/static/css/main.8b6f9398.css",
+    "main.js": "/mahendraws/reacttodo.git/static/js/main.8c71abb3.js",
+    "index.html": "/mahendraws/reacttodo.git/index.html",
+    "main.8b6f9398.css.map": "/mahendraws/reacttodo.git/static/css/main.8b6f9398.css.map",
+    "main.8c71abb3.js.map": "/mahendraws/reacttodo.git/static/js/main.8c71abb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6f9398.css",
+    "static/js/main.8c71abb3.js"
+  ]
+}
